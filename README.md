@@ -18,7 +18,7 @@ Pasos para docentes y alumnos: [docs/taller/github-classroom-y-template.md](docs
 3. Seguir la guía en orden: [docs/taller/README.md](docs/taller/README.md).
 4. Entender la correspondencia con el demo docente: [docs/taller/replicar-demo-docentes.md](docs/taller/replicar-demo-docentes.md).
 
-## Documentación principal
+## Documentación principal.
 
 | Recurso | Descripción |
 |---------|-------------|
