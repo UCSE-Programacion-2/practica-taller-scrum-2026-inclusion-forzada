@@ -18,7 +18,7 @@ Pasos para docentes y alumnos: [docs/taller/github-classroom-y-template.md](docs
 3. Seguir la guía en orden: [docs/taller/README.md](docs/taller/README.md).
 4. Entender la correspondencia con el demo docente: [docs/taller/replicar-demo-docentes.md](docs/taller/replicar-demo-docentes.md).
 
-## Documentación principal
+## Documentación principal.
 
 | Recurso | Descripción |
 |---------|-------------|
@@ -34,13 +34,13 @@ Pasos para docentes y alumnos: [docs/taller/github-classroom-y-template.md](docs
 
 Completar con el enlace real al **GitHub Project**:
 
-**Tablero:** [Agregar URL del GitHub Project aquí]
+**Tablero:** https://github.com/orgs/UCSE-Programacion-2/projects/21/views/1
 
 ## Integrantes (obligatorio: 3 por equipo)
 
-- **Apellido, Nombre** — [GitHub](https://github.com/)
-- **Apellido, Nombre** — [GitHub](https://github.com/)
-- **Apellido, Nombre** — [GitHub](https://github.com/)
+- **Montoya Cruz, Maité Agustina** — https://github.com/maitemontoya
+- **Toscano, Juan Martín** — https://github.com/martin-rin
+- **Vilca, Jorge Natanael** — https://github.com/Najovi
 
 ## Reglas de contribución (alineadas al integrador)
 
